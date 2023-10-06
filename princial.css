@@ -1,0 +1,26 @@
+.calc_simples{
+    background-color: rgb(241, 196, 153);
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
+.visor{
+    text-align: center;
+    background-color: transparent;
+}
+#resultado {
+    background-color: rgb(219, 151, 87);
+    color: rgb(0, 0, 0);
+}
+.teclas {
+    padding: 5px;
+    text-align: center;
+}
+button {
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+}
+#igual {
+    background-color: rgb(236, 160, 44);
+}
